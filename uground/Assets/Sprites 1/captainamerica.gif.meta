@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: ae310d805165c4827a88a885134bc6a6
+timeCreated: 1474339947
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: captainamerica_0
+    21300002: captainamerica_1
+    21300004: captainamerica_2
+    21300006: captainamerica_3
+    21300008: captainamerica_4
+    21300010: captainamerica_5
+    21300012: captainamerica_6
+    21300014: captainamerica_7
+    21300016: captainamerica_8
+    21300018: captainamerica_9
+    21300020: captainamerica_10
+    21300022: captainamerica_11
+    21300024: captainamerica_12
+    21300026: captainamerica_13
+    21300028: captainamerica_14
+    21300030: captainamerica_15
+    21300032: captainamerica_16
+    21300034: captainamerica_17
+    21300036: captainamerica_18
+    21300038: captainamerica_19
+    21300040: captainamerica_20
+    21300042: captainamerica_21
+    21300044: captainamerica_22
+    21300046: captainamerica_23
+    21300048: captainamerica_24
+    21300050: captainamerica_25
+    21300052: captainamerica_26
+    21300054: captainamerica_27
+    21300056: captainamerica_28
+    21300058: captainamerica_29
+    21300060: captainamerica_30
+    21300062: captainamerica_31
+    21300064: captainamerica_32
+    21300066: captainamerica_33
+    21300068: captainamerica_34
+    21300070: captainamerica_35
+    21300072: captainamerica_36
+    21300074: captainamerica_37
+    21300076: captainamerica_38
+    21300078: captainamerica_39
+    21300080: captainamerica_40
+    21300082: captainamerica_41
+    21300084: captainamerica_42
+    21300086: captainamerica_43
+    21300088: captainamerica_44
+    21300090: captainamerica_45
+    21300092: captainamerica_46
+    21300094: captainamerica_47
+    21300096: captainamerica_48
+    21300098: captainamerica_49
+    21300100: captainamerica_50
+    21300102: captainamerica_51
+    21300104: captainamerica_52
+    21300106: captainamerica_53
+    21300108: captainamerica_54
+    21300110: captainamerica_55
+    21300112: captainamerica_56
+    21300114: captainamerica_57
+    21300116: captainamerica_58
+    21300118: captainamerica_59
+    21300120: captainamerica_60
+    21300122: captainamerica_61
+    21300124: captainamerica_62
+    21300126: captainamerica_63
+    21300128: captainamerica_64
+    21300130: captainamerica_65
+    21300132: captainamerica_66
+    21300134: captainamerica_67
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: captainamerica_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 548
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 548
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 548
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 548
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 548
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 548
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 548
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 548
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 548
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 548
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 446
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 446
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 446
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 446
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 446
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 446
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 446
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 446
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 354
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 354
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 354
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 354
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 354
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 354
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 354
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_26
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 389
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 380
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_28
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 379
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 187
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 224
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 260
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 273
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 245
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_35
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 211
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_36
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 259
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 267
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_38
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 258
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 187
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_40
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 148
+        width: 133
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 91
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 77
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 54
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 129
+        width: 97
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 77
+        width: 87
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 69
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_48
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 22
+        width: 199
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 52
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_53
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 52
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 39
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 39
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 26
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 28
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_65
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 28
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 28
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: captainamerica_67
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 28
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
